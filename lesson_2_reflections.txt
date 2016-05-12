@@ -1,10 +1,16 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	When I initialized a repository git created a new folder named .git/. It does that to store informations about the new repository.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	
+	The staging area is different from working directory because it just contains the files you want to commit and is different from the repository because it is offline and contains just the files you want to commit, that is just a part of the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
